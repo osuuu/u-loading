@@ -1499,7 +1499,7 @@
   -webkit-animation: rotationBack 3s linear infinite;
           animation: rotationBack 3s linear infinite;
 }
-.loader-71::after {
+.loader-70::after {
   content: "";
   left: 94px;
   bottom: 15px;
@@ -1513,7 +1513,7 @@
   animation: rotationBack 4s linear infinite reverse;
 }
 
-.loader-72 {
+.loader-71 {
   width: 15px;
   height: 20px;
   background: #FFF;
@@ -1522,7 +1522,7 @@
   -webkit-animation: bump 0.4s ease-in infinite alternate;
           animation: bump 0.4s ease-in infinite alternate;
 }
-.loader-72::after {
+.loader-71::after {
   content: "";
   left: 50%;
   top: 100%;
@@ -1532,7 +1532,7 @@
   border-top-color: #FFF;
 }
 
-.loader-73 {
+.loader-72 {
   width: 15px;
   height: 20px;
   background: #FFF;
@@ -1541,7 +1541,7 @@
   -webkit-animation: bump 0.4s linear infinite alternate;
           animation: bump 0.4s linear infinite alternate;
 }
-.loader-73::after {
+.loader-72::after {
   content: "";
   left: 50%;
   bottom: 100%;
@@ -1551,14 +1551,14 @@
   border-bottom-color: #FFF;
 }
 
-.loader-74 {
+.loader-73 {
   width: 48px;
   height: 12px;
   background: #FFF;
   display: inline-block;
   position: relative;
 }
-.loader-74::after {
+.loader-73::after {
   content: "";
   left: 50%;
   bottom: 0;
@@ -1569,7 +1569,7 @@
   -webkit-animation: bump 0.4s ease-in-out infinite alternate;
           animation: bump 0.4s ease-in-out infinite alternate;
 }
-.loader-74::before {
+.loader-73::before {
   content: "";
   left: 50%;
   bottom: 25px;
@@ -1582,14 +1582,14 @@
           animation: bump 0.4s ease-in-out infinite alternate;
 }
 
-.loader-75 {
+.loader-74 {
   width: 48px;
   height: 12px;
   background: #FFF;
   display: inline-block;
   position: relative;
 }
-.loader-75::after {
+.loader-74::after {
   content: "";
   left: 50%;
   top: -47px;
@@ -1600,7 +1600,7 @@
   -webkit-animation: bump 0.4s ease-in-out infinite alternate;
           animation: bump 0.4s ease-in-out infinite alternate;
 }
-.loader-75::before {
+.loader-74::before {
   content: "";
   left: 50%;
   bottom: 15px;
@@ -1613,7 +1613,7 @@
           animation: bump 0.4s ease-in-out infinite alternate;
 }
 
-.loader-76 {
+.loader-75 {
   width: 48px;
   height: 24px;
   display: inline-block;
@@ -1623,7 +1623,7 @@
   -webkit-animation: fillX 2s linear infinite;
           animation: fillX 2s linear infinite;
 }
-.loader-76::after {
+.loader-75::after {
   content: "";
   position: absolute;
   left: 100%;
@@ -1634,14 +1634,14 @@
   height: 12px;
 }
 
-.loader-77 {
+.loader-76 {
   width: 48px;
   height: 24px;
   display: inline-block;
   position: relative;
   border: 1px solid #FFF;
 }
-.loader-77::after {
+.loader-76::after {
   content: "";
   position: absolute;
   left: 100%;
@@ -1651,7 +1651,7 @@
   width: 5px;
   height: 12px;
 }
-.loader-77::before {
+.loader-76::before {
   content: "";
   position: absolute;
   left: -8px;
@@ -1663,7 +1663,7 @@
           animation: animloader89 2s linear infinite;
 }
 
-.loader-78 {
+.loader-77 {
   width: 48px;
   height: 48px;
   display: inline-block;
@@ -1674,7 +1674,7 @@
   color: rgba(255, 61, 0, 0.9);
   border-radius: 0 0 4px 4px;
 }
-.loader-78::after {
+.loader-77::after {
   content: "";
   position: absolute;
   left: 100%;
@@ -1686,7 +1686,7 @@
   border-radius: 0 4px 4px 0;
 }
 
-.loader-79 {
+.loader-78 {
   width: 32px;
   height: 72px;
   display: inline-block;
@@ -1699,7 +1699,7 @@
   transform: perspective(140px) rotateX(-45deg);
 }
 
-.loader-80 {
+.loader-79 {
   width: 48px;
   height: 40px;
   display: inline-block;
@@ -1707,7 +1707,7 @@
   background: #FFF;
   border-radius: 15% 15% 35% 35%;
 }
-.loader-80::after {
+.loader-79::after {
   content: "";
   position: absolute;
   left: 45px;
@@ -1717,7 +1717,7 @@
   height: 20px;
   border-radius: 0 4px 4px 0;
 }
-.loader-80::before {
+.loader-79::before {
   content: "";
   position: absolute;
   width: 1px;
@@ -1729,7 +1729,7 @@
           animation: animloader92 1s ease infinite;
 }
 
-.loader-81 {
+.loader-80 {
   width: 96px;
   height: 48px;
   display: inline-block;
@@ -1738,7 +1738,7 @@
   border-radius: 48px 48px 0 0;
   overflow: hidden;
 }
-.loader-81::after {
+.loader-80::after {
   content: "";
   position: absolute;
   width: 24px;
@@ -1749,7 +1749,7 @@
   transform: translateX(-50%);
   bottom: 0;
 }
-.loader-81::before {
+.loader-80::before {
   content: "";
   position: absolute;
   width: 4px;
@@ -1764,7 +1764,7 @@
           animation: animloader93 2s linear infinite alternate;
 }
 
-.loader-82 {
+.loader-81 {
   width: 48px;
   height: 48px;
   display: inline-block;
@@ -1774,7 +1774,7 @@
   -webkit-animation: animloader94 2s linear infinite;
           animation: animloader94 2s linear infinite;
 }
-.loader-82::after {
+.loader-81::after {
   content: "";
   width: 6px;
   height: 24px;
@@ -1785,13 +1785,13 @@
   left: 46px;
 }
 
-.loader-83 {
+.loader-82 {
   width: 48px;
   height: 48px;
   display: inline-block;
   position: relative;
 }
-.loader-83::after {
+.loader-82::after {
   content: "";
   width: 48px;
   height: 48px;
@@ -1804,7 +1804,7 @@
   -webkit-animation: animMarker 0.4s ease-in-out infinite alternate;
           animation: animMarker 0.4s ease-in-out infinite alternate;
 }
-.loader-83::before {
+.loader-82::before {
   content: "";
   position: absolute;
   left: 0;
@@ -1819,7 +1819,7 @@
           animation: animShadow 0.4s ease-in-out infinite alternate;
 }
 
-.loader-84 {
+.loader-83 {
   width: 48px;
   height: 48px;
   background: #FF3D00;
@@ -1827,7 +1827,7 @@
   position: relative;
   animation: rotationBack 1s ease-in-out infinite reverse;
 }
-.loader-84::before {
+.loader-83::before {
   content: "";
   left: 0;
   top: 0;
@@ -1838,7 +1838,7 @@
   background: #FF3D00;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 }
-.loader-84::after {
+.loader-83::after {
   content: "";
   width: 32px;
   height: 32px;
@@ -1851,7 +1851,7 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 }
 
-.loader-85 {
+.loader-84 {
   width: 60px;
   height: 60px;
   display: inline-block;
@@ -1861,7 +1861,7 @@
   background-repeat: repeat-x;
   background-position: center bottom, center -5px;
 }
-.loader-85::before, .loader-85::after {
+.loader-84::before, .loader-84::after {
   content: "";
   position: absolute;
   left: -20px;
@@ -1877,7 +1877,7 @@
   -webkit-animation: animPend 1s linear infinite alternate;
           animation: animPend 1s linear infinite alternate;
 }
-.loader-85::after {
+.loader-84::after {
   -webkit-animation: animPend2 1s linear infinite alternate;
           animation: animPend2 1s linear infinite alternate;
   left: 100%;
@@ -1885,7 +1885,7 @@
 
 
 
-.loader-86 {
+.loader-85 {
   width: 180px;
   height: 140px;
   background-image: radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 15px at 15px 15px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
@@ -1894,7 +1894,7 @@
   background-position: 0px 30px, 30px 0px, 113px 29px, 147px 50px, 23px 60px;
   position: relative;
 }
-.loader-86::after {
+.loader-85::after {
   content: "";
   position: absolute;
   left: 2px;
@@ -1904,6 +1904,39 @@
   color: #FFF;
   -webkit-animation: animloader100 0.6s linear infinite;
           animation: animloader100 0.6s linear infinite;
+}
+
+.loader-86 {
+  width: 175px;
+  height: 80px;
+  background-image: radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
+  background-size: 50px 50px, 100px 76px, 50px 50px, 120px 40px;
+  background-position: 0px 30px, 37px 0px, 122px 30px, 25px 40px;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.loader-86::after {
+  content: "";
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 0);
+  position: absolute;
+  border: 15px solid transparent;
+  border-top-color: #FF3D00;
+  -webkit-animation: fadePush 1s linear infinite;
+          animation: fadePush 1s linear infinite;
+}
+.loader-86::before {
+  content: "";
+  left: 50%;
+  bottom: 30px;
+  transform: translate(-50%, 0);
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background: #FF3D00;
+  -webkit-animation: fadePush 1s linear infinite;
+          animation: fadePush 1s linear infinite;
 }
 
 .loader-87 {
@@ -1918,39 +1951,6 @@
 .loader-87::after {
   content: "";
   left: 50%;
-  bottom: 0;
-  transform: translate(-50%, 0);
-  position: absolute;
-  border: 15px solid transparent;
-  border-top-color: #FF3D00;
-  -webkit-animation: fadePush 1s linear infinite;
-          animation: fadePush 1s linear infinite;
-}
-.loader-87::before {
-  content: "";
-  left: 50%;
-  bottom: 30px;
-  transform: translate(-50%, 0);
-  position: absolute;
-  width: 15px;
-  height: 15px;
-  background: #FF3D00;
-  -webkit-animation: fadePush 1s linear infinite;
-          animation: fadePush 1s linear infinite;
-}
-
-.loader-88 {
-  width: 175px;
-  height: 80px;
-  background-image: radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
-  background-size: 50px 50px, 100px 76px, 50px 50px, 120px 40px;
-  background-position: 0px 30px, 37px 0px, 122px 30px, 25px 40px;
-  background-repeat: no-repeat;
-  position: relative;
-}
-.loader-88::after {
-  content: "";
-  left: 50%;
   bottom: 30px;
   transform: translate(-50%, 0);
   position: absolute;
@@ -1959,7 +1959,7 @@
   -webkit-animation: fadePull 1s linear infinite;
           animation: fadePull 1s linear infinite;
 }
-.loader-88::before {
+.loader-87::before {
   content: "";
   left: 50%;
   bottom: 15px;
@@ -1972,7 +1972,7 @@
           animation: fadePull 1s linear infinite;
 }
 
-.loader-89 {
+.loader-88 {
   width: 175px;
   height: 80px;
   background-image: radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
@@ -1981,7 +1981,7 @@
   background-repeat: no-repeat;
   position: relative;
 }
-.loader-89::after {
+.loader-88::after {
   content: "";
   left: 0;
   right: 0;
@@ -1997,7 +1997,7 @@
           animation: rotation 1s linear infinite;
 }
 
-.loader-90 {
+.loader-89 {
   width: 175px;
   height: 80px;
   background-image: radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
@@ -2006,7 +2006,7 @@
   background-repeat: no-repeat;
   position: relative;
 }
-.loader-90::before {
+.loader-89::before {
   content: "";
   left: 60px;
   bottom: 18px;
@@ -2020,7 +2020,7 @@
   -webkit-animation: rotationBack 3s linear infinite;
           animation: rotationBack 3s linear infinite;
 }
-.loader-90::after {
+.loader-89::after {
   content: "";
   left: 94px;
   bottom: 15px;
@@ -2034,7 +2034,7 @@
   animation: rotationBack 4s linear infinite reverse;
 }
 
-.loader-91 {
+.loader-90 {
   width: 175px;
   height: 80px;
   background-image: linear-gradient(#263238 50px, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #FFF 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #FFF 100%, transparent 0), linear-gradient(#FFF 50px, transparent 0);
@@ -2043,7 +2043,7 @@
   background-repeat: no-repeat;
   position: relative;
 }
-.loader-91::after {
+.loader-90::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -2063,7 +2063,7 @@
           animation: animloader105 4s linear infinite;
 }
 
-.loader-92 {
+.loader-91 {
   width: 32px;
   height: 90px;
   margin-bottom: 20px;
@@ -2078,7 +2078,7 @@
   -webkit-animation: animloader106back 1s linear infinite alternate;
           animation: animloader106back 1s linear infinite alternate;
 }
-.loader-92::before {
+.loader-91::before {
   content: "";
   position: absolute;
   left: 50%;
@@ -2089,7 +2089,7 @@
   box-shadow: 0px 15px #FF3D00 inset;
   top: 67px;
 }
-.loader-92::after {
+.loader-91::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -2107,7 +2107,7 @@
           animation: animloader106 1s linear infinite alternate;
 }
 
-.loader-93 {
+.loader-92 {
   width: 106px;
   height: 56px;
   background-image: linear-gradient(#FFF 50px, transparent 0), linear-gradient(#FFF 50px, transparent 0), linear-gradient(#FFF 50px, transparent 0), linear-gradient(#FFF 50px, transparent 0), radial-gradient(circle 14px, #FFF 100%, transparent 0);
@@ -2117,7 +2117,7 @@
   position: relative;
   transform: rotate(-45deg);
 }
-.loader-93::after, .loader-93::before {
+.loader-92::after, .loader-92::before {
   content: "";
   position: absolute;
   width: 56px;
@@ -2133,7 +2133,7 @@
   -webkit-animation: rotation 0.3s linear infinite;
           animation: rotation 0.3s linear infinite;
 }
-.loader-93::before {
+.loader-92::before {
   left: 25px;
   top: 60px;
 }

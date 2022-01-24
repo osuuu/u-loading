@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="box">
-      <uLoading ></uLoading>
+      <uLoading :type="95"></uLoading>
     </div>
   </div>
 </template>

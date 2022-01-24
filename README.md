@@ -29,7 +29,7 @@ Vue.use(uLoading);
         <td>type</td>
         <td>Animation</td>
         <td>Number</td>
-        <td>1~93</td>
+        <td>1~92</td>
         <td>1</td>
     </tr>
     <tr>
