@@ -1,7 +1,7 @@
 {
   "name": "u-loading",
   "description": "A vue loading plug-in",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "author": "admin@osuu.net",
   "license": "MIT",
   "private": false,
